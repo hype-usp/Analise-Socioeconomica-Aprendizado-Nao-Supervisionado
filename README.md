@@ -9,7 +9,7 @@ Este repositório contém o desenvolvimento, na figura do notebook Jupyter, e os
 * [Beatriz dos Santos Bento](https://github.com/beatriz7227)
 * [Giovanna Antunes](https://github.com/gigi-antunes)
 * [Gabriela Alcaide](https://github.com/Gabriela-Alcaide)
-* [Jean Lucas Santanna de Almeida]()
+* [Jean Lucas Santanna de Almeida](https://github.com/jeanls2705-source?tab=repositories)
 * [Rafael Chagas Araujo](https://github.com/RafaelCA-USP)
 ---
 
